@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=sender\ messageBody
+comment0.target=Message(Person,\ java.lang.String)
+comment0.text=\r\n\ The\ constructor\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getMessageBody()
+comment2.params=
+comment2.target=void\ getSender()
+numComments=3
